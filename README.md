@@ -1,2 +1,2 @@
 # Smart-Restaurant-Management-System
-A C# Windows Forms application for restaurant operations with separate roles for Admin, Chef, Manager and Customer management.
+Chef module from a group C# Windows Forms restaurant management system — handles kitchen orders, updates, and workflow.
